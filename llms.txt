@@ -17,7 +17,7 @@
 ## Разделы страницы
 
 - [Фотографии квартиры](https://shareagency.github.io/apartment-filatov-lug/#gallery): все фото квартиры, галерея с полноэкранным просмотром (актуальное количество — в llms-full.txt).
-- [Описание и условия найма](https://shareagency.github.io/apartment-filatov-lug/#description): локация, планировка, техника, условия и требования к наймторам.
+- [Описание и условия найма](https://shareagency.github.io/apartment-filatov-lug/#description): локация, планировка, техника, условия и требования к арендаторам.
 - [Частые вопросы](https://shareagency.github.io/apartment-filatov-lug/#faq): цена, срок, документы, что есть в квартире, как добраться.
 - [Договор найма](https://shareagency.github.io/apartment-filatov-lug/#contract): PDF для ознакомления.
 - [Контакты](https://shareagency.github.io/apartment-filatov-lug/#contacts)
